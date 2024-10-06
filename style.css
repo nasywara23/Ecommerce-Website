@@ -581,7 +581,6 @@ footer a:hover {
 
 /* Single Product */
 
-
 #prodetails {
   display: flex;
   margin-top: 20px;
@@ -601,7 +600,6 @@ footer a:hover {
   flex-basis: 24%;
   cursor: pointer;
 }
-
 
 #prodetails .single-pro-details {
   width: 50%;
