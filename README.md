@@ -1,1 +1,1 @@
-https://github.com/nasywara23/Ecommerce-Website/blob/main/web-mockup.gif?raw=true
+![Ecommerce Website Desktop Demo](./web-mockup.gif "Desktop Demo")
